@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-Currently studying at @42Paris school after a change of career in 2021. I have completed the 42 school common core in which I've learned how to code in differents languages and with a diverse set of tools. My journey in the IT world began with the exploration of low-level programming using the C language, the discovery of Unix environment, the reproduction of common algorithms such as sorting, learning Object-Oriented Programming in C++ and creating a website including an authentication system, a chat and a pong game. You can check some of my projects below :)
+Currently studying at 42 Paris school after a change of career in 2021. I have completed the school common core in which I've learned how to code in differents languages and with a diverse set of tools. My journey in the IT world began with the exploration of low-level programming using the C language, the discovery of Unix environment, the reproduction of common algorithms such as sorting, learning Object-Oriented Programming in C++ and creating a website including an authentication system, a chat and a pong game. You can check some of my projects below :)
 
 ### Languages, utilities, databases i used for my projects
 
