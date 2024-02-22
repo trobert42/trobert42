@@ -38,7 +38,7 @@ Currently studying at 42 Paris school after a change of career in 2021. I have c
 | <a href="https://github.com/trobert42/so_long">So_long</a> | A graphical introduction project using an educative library | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 | <a href="">ft_printf</a> | Recoding printf function | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 | <a href="">get_next_line</a> | Function coded in C that reads a lines from a file descriptor | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
-| BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic">|
+| BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=flat">|
 | <a href="">Libft</a> | Reproduction of some libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 
 </details>
