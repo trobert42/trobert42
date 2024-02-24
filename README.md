@@ -10,6 +10,8 @@ Software developer
 
 💬 My journey in the IT world began with the exploration of low-level programming using the C language, the discovery of Unix environment, the reproduction of common algorithms such as sorting, learning Object-Oriented Programming in C++ and implementing from scratch a website with an authentication system, a real-time chat and a pong game.
 
+⚡️ Fun fact: i use notion to list my groceries but always end up forgetting one item on the list
+
 ⬇️ You can check some of my projects below :)
 
 
