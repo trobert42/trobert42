@@ -32,7 +32,7 @@ Software developer
 
 ### Projects from 42
 <details>
-  <summary>All projects</summary>
+  <summary>Untoggle to see all projects</summary>
   
 | Project link | Description |  Languages/Techs |
 | :- | :-: | :-: |
