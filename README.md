@@ -25,14 +25,21 @@ Software developer
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)
 
 
-### Projects from 42
+### Projects
 <details>
-  <summary>Untoggle to see all projects</summary>
+  <summary>Untoggle to see all 42 projects</summary>
   
 | Project link | Description |  Languages/Techs |
 | :- | :-: | :-: |
@@ -52,7 +59,15 @@ Software developer
 | <a href="https://github.com/trobert42/libft">Libft</a> | My own C library functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 
 </details>
+<details>
+  <summary>Untoggle to see my personal projects</summary>
 
+| Project link | Description |  Languages/Techs |
+| :- | :-: | :-: |
+| <a href="https://github.com/trobert42/API_JustifyText">API_JustifyText</a> | A simple REST API on Node.JS that justifies a text passed as a parameter | <img alt="NodeJs" src="https://custom-icon-badges.demolab.com/badge/node.js-6DA55F?logo=node.js&logoColor=white"> <img alt="Express" src="https://custom-icon-badges.demolab.com/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"> <img alt="Postgres" src="https://custom-icon-badges.demolab.com/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"> <img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="JWT" src="https://custom-icon-badges.demolab.com/badge/JWT-black?logo=JSON%20web%20tokens"> <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"> |
+| <a href="https://github.com/trobert42/WatToEat">WatToEat</a> | A mobile application about organizing and managing food recipes | <img alt="NodeJs" src="https://custom-icon-badges.demolab.com/badge/node.js-6DA55F?logo=node.js&logoColor=white"> <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"> <img alt="React Native" src="https://custom-icon-badges.demolab.com/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Expo" src="https://custom-icon-badges.demolab.com/badge/Expo-000020?logo=expo&logoColor=fff"> <img alt="Supabase" src="https://custom-icon-badges.demolab.com/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> |
+
+</details>
 
 ### Socials
 
